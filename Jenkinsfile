@@ -7,7 +7,7 @@ pipeline {
         
     stage('Git') {
       steps {
-        git 'https://github.com/****/****'
+        git 'https://github.com/Devendrakumar0/simple-node-js-react-npm-app.git'
       }
     }
      
